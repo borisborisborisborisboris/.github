@@ -1,4 +1,5 @@
-# Last updated: 2026-02-23
+# Last updated in .github : 2026-02-23
+# Last edited in this repo : N/A
 name: Build and Push Docker Image
 on:
   workflow_dispatch:
