@@ -1,7 +1,7 @@
 {
     "name": "B",
     "description": "Build and push a Docker image to GitHub Container Registry with optional disk space cleanup and multi-architecture support",
-    "iconName": "docker",
+    "iconName": "docker.png",
     "categories": [
         "Deployment",
         "Docker"
