@@ -1,4 +1,4 @@
-name: Build and Push Docker Image
+name: Build and Push Docker Image v2026.02.23
 
 on:
   workflow_call:
